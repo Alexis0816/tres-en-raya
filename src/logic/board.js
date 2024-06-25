@@ -15,7 +15,6 @@ export const checkWinnerFrom = (boardToCheck) => {
   return null
 }
 
-
 export const checkEndGame = (newBoard) => {
   // revisamos si hay un empate
   // siempre y cuándo no hayan más espacios vacíos en el tablero
